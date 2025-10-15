@@ -1,0 +1,37 @@
+[
+  {
+    "--primary": "#3498db",
+    "--secondary": "#2ecc71",
+    "--background": "#ffffff"
+  },
+  {
+    "--primary": "#FBF3D1",
+    "--secondary": "#C5C7BC",
+    "--background": "#B6AE9F"
+  },
+  {
+    "--primary": "#7289da",
+    "--secondary": "#424549",
+    "--background": "#282b30"
+  },
+  {
+    "--primary": "#ff0000",
+    "--secondary": "#424242",
+    "--background": "#272727"
+  },
+  {
+    "--primary": "#7289da",
+    "--secondary": "#424549",
+    "--background": "#282b30"
+  },
+  {
+    "--primary": "#7289da",
+    "--secondary": "#424549",
+    "--background": "#282b30"
+  },
+  {
+    "--primary": "#7289da",
+    "--secondary": "#424549",
+    "--background": "#282b30"
+  }
+]
